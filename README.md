@@ -31,7 +31,7 @@ Output: "aaaazzzz"
 
 ## String02
 
-  Return a string consisting only of uppercase.
+  Return a string consisting only of uppercase letters.
 
 **Example 1:**
 
