@@ -137,7 +137,7 @@ Output: "[1, 2, 3]"
 
 ## String10
 
-  Given three integers, x, y, return the "(x+y)*2={ifoda natijasi}" string.
+  Given two integers x, y return the "(x+y)*2={ifoda natijasi}" string.
 
 **Example 1:**
 
