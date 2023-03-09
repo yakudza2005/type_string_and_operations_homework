@@ -1,6 +1,6 @@
 def main():
     """
-    Return a string consisting only of uppercase.
+    Return a string consisting only of uppercase letters.
     Args:
         None
     Returns:
